@@ -1,0 +1,2 @@
+# jot
+Notes, fast
