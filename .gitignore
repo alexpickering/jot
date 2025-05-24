@@ -36,3 +36,6 @@ hooks/
 *.swp
 *.swo
 *~
+
+
+resources/
