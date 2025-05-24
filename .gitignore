@@ -1,6 +1,12 @@
-# Python-generated files
+# py files
 __pycache__/
 *.py[oc]
+*$py.class
+*.so
+.Python
+env/
+ENV/
+env.bak/
 build/
 dist/
 wheels/
@@ -8,3 +14,25 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+venv.bak/
+
+# env files
+.env
+.env.local
+.env.production
+.env.*.local
+.copier/
+copier.yml
+hooks/
+
+# db files
+*.db
+*.sqlite
+*.sqlite3
+
+# editor files
+.vscode/
+*.swp
+*.swo
+*~
